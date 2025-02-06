@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advance_patterns/advance_patterns.iml" filepath="$PROJECT_DIR$/advance_patterns/advance_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays_1/arrays_1.iml" filepath="$PROJECT_DIR$/arrays_1/arrays_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays_2/arrays_2.iml" filepath="$PROJECT_DIR$/arrays_2/arrays_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicSortingAlgorithms/basicSortingAlgorithms.iml" filepath="$PROJECT_DIR$/basicSortingAlgorithms/basicSortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java dsa course.iml" filepath="$PROJECT_DIR$/.idea/java dsa course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern_1/pattern_1.iml" filepath="$PROJECT_DIR$/pattern_1/pattern_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision_pdf/revision_pdf.iml" filepath="$PROJECT_DIR$/revision_pdf/revision_pdf.iml" />
+    </modules>
+  </component>
+</project>
